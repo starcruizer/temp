@@ -1,0 +1,990 @@
+Education
+
+MHO0027
+1259420477
+REV: FEBRUARY 21, 2015
+
+FRANK T. ROTHAERMEL
+DAVID R. KING
+
+Apple Inc.
+FERERRZGAZERE 11-225 E REM 2 HRM UHR REN ARELR
+BE RAC REERER -
+
+February 10, 2015. After the market closed, Apple Inc. became the first company to have a market
+valuation greater than $700 billion (see Exhibit 1a). Apple stock is riding high after selling a record
+number of iPhones and showing a record $18 billion in quarterly profit.” These milestones are nota-
+ble for Chief Executive Officer (CEQ) Tim Cook, for since he’s replaced the iconic Steve Jobs in 2011,
+Apple's value has more than doubled—quieting skeptics. Mr. Cook has publicly rejected the “law of
+large numbers” or the idea that growth rates slow as companies get bigger? So far, his instincts have
+proven right: Demand for Apple products has intensified, particularly in China. Because increasing
+sales or profits by 10 percent for $10 million ($1 million) is a lot easier than growing the same amount
+from a base of $18 billion ($180 million), maintaining double-digit growth can be difficult. Despite the
+sticcess of former innovations, under Steve Jobs, that growth often came from the “next big thing.”
+From where will continued growth now come? Such is what Tim Cook anticipates investors will also
+wonder (see Exhibit 1b for a comparison of Apple's share price to the NASDAQ 100 Index).*
+
+The Creation of Apple Inc.
+
+In 1976, Steve Jobs and Steve Wozniak conceived the idea of a personal-computer company and
+founded Apple Computer Inc. (computer was dropped in 2007 to reflect Apple's expansion from the
+personal computer market to general consumer electronics)’ At just 21 years of age, Jobs sold his
+Volkswagen to fund the start of the company. Jobs and Wozniak, then 26, began to assemble personal
+computers in Jobs’ garage with a small group of friends. Soon after, they received additional financing
+to spur the growth of the company. In 1978, the Apple II, the first personal computer, was launched and
+sold for $666.66.% In December of that same year, Apple launched a successful IPQ (initial public offer-
+ing), making it a publicly traded company. Since its IPO, Apple's market value has risen an astounding
+50,600 percent”
+
+By 1980, Apple had released three improved versions of the personal computer, and Jobs and
+Wozniak had become multimillionaires. The following year, IBM entered the personal computer mar-
+ket and quickly became a serious competitor. IBM's open architecture was easily imitable by other
+manufacturers and soon became the industry standard, giving rise to many more computer compa-
+nies in the United States (e.g., Compaq and Dell), as well as in Taiwan, Korea, and other Asian coun-
+tries. Even more threatening was the consortium among IBM, which specialized in the development
+of computer hardware; the newly formed Microsoft with its DOS operating system; and Intel with its
+
+Professors Frank T. Rothaermel and David R. King prepared this case from public source: We gratefully acknowledge Resesrch Associate May ink
+Jaiswal for assistance in data collection. This case is developed for the purpose of class discussion. It is not intended to be used for any kind of
+endorsement, source of data, or depiction of efficient or inefficient management. All opinions ¢ pressed, and all errors and omissions, are entirely
+the authors’. © by Rothaermel and King, 2015.
+Apple Inc.
+
+expertise in memory and processors. By 1982, IBM had increased its profitability and market share sub-
+stantially, and Apple's position was under attack. Apple responded two years later with the Macintosh,
+which offered advanced capabilities with an intuitive graphical user interface (GUI), and which iid
+introduced via a dramatic television commercial during the third quarter of the 1984 Super Bowl? In
+1985, Steve Jobs was forced out after a pare struggle with CEO John Sculley, a professional manager
+from Pepsi who was hired two years prior.” Steve Jobs had to watch as the company he founded fell on
+hard times. By 1996, Apple reported a mere $69 million in first-quarter revenue and massive layoffs of
+30 percent of the company’s total work force of 13,400.°
+
+Steve Jobs Returns
+
+After his public firing from Apple, Steve Jobs pursued other interests (NeXT and Pixar). Applet 8
+purchase of NeXT on December 20, 1996, for $429 million opened a way for Steve's return to Apple.
+Jobs became CEO again in 1997 and took only a symbolic $1 salary. He later reminisced, “I didn't see it
+then, but it turned out that getting fired from Apple was the best thing that could have ever happened
+to me. The heaviness of being successful was replaced by the lightness of being a beginner again. . . .
+It freed me to enter one of the most creative periods of my life.”'? Apple largely survived based on a
+$150 million investment from Microsoft in August 1997; the intent was to keep Apple and its operating
+system viable to avoid monopoly antitrust concerns.” However, it gave Steve Jobs needed time to have
+Apple develop products that shaped future technology and to orchestrate one of the greatest corporate
+comebacks in modern-day history.
+
+Steve Jobs firmly believed that Apple could create major innovation breakthroughs that would
+reshape future industries. Jobs’ attitude toward innovation as key to a successful strategy and competi-
+tive advantage was revealed in an interview with UCLA professor Richard Rumelt shortly after Jobs
+returned to Apple in 1998:
+
+1 was interested in what Steve Jobs might say about the future of Apple. His survival strategy for Apple,
+for all its skill and drama, was not going to propel Apple into the future. At that moment in time, Apple
+had less than 4 percent of the personal-computer market. The de facto standard was Windows-Intel [later
+“Wintel”] and there seemed to be no way for Apple to do more than just hang on to a tiny niche. I said,
+“Steve, this turnaround at Apple has been impressive. But everything we know about the PC business says
+that Apple cannot really push beyond a small niche position. The network effects are just too strong to
+upset the Wintel standard. So what are you going to do in the longer term? What is your strategy?”
+
+[Steve Jobs] did not attack my argument. He didn't agree with it either. He just smiled and said, “I'm going
+to wait for the next big thing.”
+
+(See Exhibits 2 and 3 product, geographic and financial performance).
+
+Restructuring Apple
+
+When Steve Jobs returned to Apple in 1997, he was ready and eager to shake things up. In a meet-
+ing with Apple's top executives, after hearing all their explanations as to why Apple was performing
+poorly, Jobs infamously roared: “The products SUCK! There's no SEX in them anymore!" Jobs swiftly
+refocused the company that he had helped start and discontinued several products such as the Newton
+
+Apple Inc.
+
+PDA, the LaserWriter printer line, and the Apple QuickTake camera—all now collector items for Apple
+enthusiasts.
+
+During this time of restructuring, Jobs outsourced manufacturing to Taiwan and scaled down the
+distribution system by ending relationships with smaller outlets. With Jobs’ savvy insight for what con-
+sumers wanted, he launched a new, revolutionary website to sell Apple products directly to customers
+online. For the first time ever, he also opened Apple retail stores, tied to his build-to-order manufactur-
+ing strategy. Although these moves seemed risky at the time, all of these operational improvements
+helped to boost previously declining sales. For the first time in five years (since 1993), Apple once again
+became profitable.
+
+Jobs also realized the necessity of making Apple's operating system more accessible for software
+providers. He switched everything to the open-source, UNIX-based operating system, Mac OS X.
+This proved to be a more stable operating environment and permitted the company to issue annual
+upgrades in response to customer feedback. In 2005, Apple completed this transition by switching from
+PowerPC to Intel processors, which meant that Apple computers could run not only the Mac OS X but
+also any operating systems that used the x86 architecture. This marked the beginning of a truly open
+era for Apple computers: They were now the most flexible, as well as the most attractive. As a result,
+Apple's stock price rose from $6 in 2003 to over $80 in 2006, surpassing even Dell's market cap, the
+then-number-one computer maker in the United States.’® Dell's CEO, Michael Dell, was left retracting
+the words he had very publicly spat nine years prior, “If I ran Apple, I would shut it down and give the
+money back to shareholders."
+
+Beyond changing the operating system, the most visible change Jobs instituted was leveraging
+industrial design to produce more aesthetically pleasing computers. Jobs almost instantly revitalized
+Apple's image by pushing the limits of technology and design. He appointed Jonathan Ive, a British
+designer, head of Apple’s in-house Industrial Design group (IDg). There have been several distinct
+design themes in Jobs and lIve's collaboration over the years: translucency, colors, minimalism, and
+dark aluminum. Ive has been credited with being the chief designer of the iMac, the aluminum and
+titanium PowerBook G4, the MacBook, unibody MacBook Pro, the iPod, iPhone, and iPad." Ive’s work
+at Apple has won him a slew of awards and widespread recognition.
+
+Jobs also started to brand Apple as a functionally appealing, hip alternative to other dull, clone-
+like computers in the market. Known for his candor, Steve Jobs once accused Michael Dell of making
+“un-innovative beige boxes.”'” Continuing in the same vein as the now well-known 1984 television
+ad, Apple launched its “Think Different” campaign in 1997. The aim of the campaign was to reflect
+the culture of Apple, which comprised great people who think differently. The television advertise-
+ments featured major artists, scientists, and politicians who were seen as independent thinkers, includ-
+ing Albert Einstein, Martin Luther King, Jr, John Lennon, Thomas Edison, Amelia Earhart, Alfred
+Hitchcock, Pablo Picasso, and Jerry Seinfeld. Similarly, Apple's print advertisements had less to do
+with specific products, and everything to do with company image. They simply featured a portrait of
+one of the historic figures and a small Apple logo with the words “Think Different” in the bottom cor-
+ner. In 2002, Apple launched the “Switch” advertising campaign, which showed various celebrities and
+non-celebrities talking about the reasons they switched from Windows computers to Apple computers.
+The “I'm a Mac, I'm a PC” commercials in the last half of the decade, which featured young actor Justin
+Long as a “Mac” and a middle-aged man (comic John Hodgman) in a suit as a “PC,” helped to fortify
+the image of the Mac as young and hip and the PC as only suitable for business and not the creative
+needs of the younger generation.
+
+Apple Inc.
+
+Apple's Culture
+
+As early as 1983, Steve Jobs coined the following motto at an offsite retreat: “It’s better to be a pirate
+than join the navy.”?” Jobs’ Macintosh team had only 80 employees at the time, but already he sensed
+that they were developing the group-think mentality that he detested. In response to “Captain” Jobs’
+cry, programmers Steve Capps and Susan Kare painted a rainbow-colored Apple eye patch onto a
+pirate flag and hung it above the Macintosh building. This iconic image became illustrative of Apple's
+unique corporate culture and also symbolic of Apple's first inspired slogan in the late 1970s, “Byte into
+an Apple.”
+
+According to its website, working at Apple was “less of a job, more of a calling.” Apple looked for
+employees who were on a mission to “change the world” and create “some of the best-loved technol-
+ogy on the planet”? Apple promoted itself to prospective candidates as “a whole different thing” with
+“corporate jobs without the corporate part.”* Apple looked for people who were “smart, creative, up
+for any challenge, and incredibly excited about what they do. In other words, Apple people. You know,
+the kind of people you'd want to hang around with anyway.”?* From the start, Steve Jobs had been
+more than instrumental in developing Apple's envied corporate culture. Employees typically worked
+60 to 70 hours a week, and no one complained.
+
+Apple has been thought of as putting Silicon Valley on the map with its hard-working but relaxed,
+casual atmosphere.”® This characterization would be an impossible contradiction in most other corpo-
+rations in the United States, but not at Apple. When Jobs returned to Apple in 1997, he became famous
+for his standard black turtleneck and jeans uniform, walking around the campus with, or sometimes
+without, his sneakers. Jobs even went barefoot to a 1999 meeting to settle a patent dispute with execu-
+tives from Microsoft.® Jobs was the ultimate example of an “I'm-a-genius-and-I-don’t-care” attitude.
+Apple employees embraced their hero and became convinced that, with confidence and creativity, they
+too could become rich and leave a legacy—sans suit or shoes.
+
+Apple's rebel spirit not only attracted a long-lasting appreciation from loyal employees but also
+created an almost cult-like following among customers who appreciated Apple's propensity to think
+differently. Millions of people wanted to be seen as unique individuals, and hence, millions of people
+bought Apple products. The “Cult of Apple” was a group of rumored fanatical followers devoted to
+all things Apple, but “while there are many customers who eat, think, and breathe Apple, members of
+the Cult of Apple take their devotion one step further and believe in Apple.”* The result was that Apple
+had a conspicuous horde-like following walking down the streets of every major city in the world with
+the signature white ear buds of Apple products attached to their heads. Apple products became so
+trendy that other companies had to design their consumer electronics like Apple's to have a hope of
+selling. The loyalty of Apple customers has served the company well, and now it is not just the die-hard
+fanatics who believe. Even people in the mainstream were becoming Apple converts.
+
+Innovation at Apple under Steve Jobs: iPod/iPhone/iPad
+
+The one competency thatkept Apple on the cutting edge, all the way from startup to survival and suc-
+cess, has been innovation that others envy. “Innovation distinguishes between a leader and a follower,”
+Jobs repeatedly said.” Jobs believed that innovation is a process that can be cultivated and managed
+within an organization. If begins with idea generation, then moves to idea adoption and development,
+
+Apple Inc.
+
+and finally to idea implementation. All the while, the innovation process has been enabled by effective
+leadership and a supportive organizational culture.
+
+Apple's top management was also critical in the effort to nurture an innovative organization because
+employees needed to know that they would notbe reprimanded for making risky choices when attempt-
+ing a creative project. A high tolerance for failure and calculated risk-taking is necessary for employees
+to feel comfortable bringing up new ideas in any organization.” Apple's work force appeared to have
+embraced this attitude fully, as they proudly “[said] NO to 1,000 things.”
+
+Compared to its competitors, Apple spends less, but an increasing amount, on research and devel-
+opment (R&D) with expenses of $6.0 billion, $4.5 billion, and $3.4 billion in 2014, 2013, and 2012 respec-
+tively, which ranges between 2.2 to 3.3 percent of revenues (see Exhibit 4). Comparing the amount of
+money spent at Apple with that of other technology giants shows how effectively Apple's innovation
+process works, making possible a significant return on R&D investment. In fact, Jobs was known to say:
+“Innovation has nothing to do with how many R&D dollars you have. When Apple came up with the
+Mac, IBM was spending at least 100 times more on R&D. It's not about money. It’s about the people you
+have, how you're led, and how much you ‘get it.”"** (See Exhibit 5a for a historical timeline of Apple’s
+product introductions and net income.)
+
+THE iPOD
+
+The big bang happened at Apple in October 2001 with the launch of the iPod, a portable digital
+music player based on the MP3 music format. The sleek design and smart graphical user interface
+bewitched consumers. The product was an instant hit, selling over 100 million units within six years.
+The profitability of the iPod was phenomenal, with margins estimated as high as 47.4 percent before
+freight, marketing, and other costs.™
+
+In April 2003, Apple provided iTunes as a complement for the iPod. iTunes was the first online store
+from which customers could buy songs individually at 99 cents each, rather than purchasing entire
+albums for upward of $15 to $20 or downloading songs illegally. Within three days of launch, iTunes
+users had downloaded one million songs. By June 2008, iTunes had exceeded five billion downloads. *
+On February 25, 2010, which was coincidentally Steve Jobs’ 55th birthday, Apple achieved the great
+milestone of 10 billion iTunes downloaded. Apple had seemingly effortlessly established itself as the
+newest icon of the digital age, revolutionizing the music industry and holding fast to its leadership
+position in the technology race.
+
+In keeping with its iconoclastic reputation, Apple promoted its iPod as a stylish alternative to
+archetypal music technology products with the new “iPod People” campaign. Ads featured several
+silhouetted people with white headphones in their ears dancing against a colorful background. Apple
+advertising had always been creative by design, but its “iPod People” promotion brought in an unmis-
+takable “coolness-factor” as the essence of the product. That desired attribute was directly transferred
+to the customer upon purchase.
+
+THE iPHONE
+
+In June 2007, Apple launched the iPhone, and soon Apple's share price passed the $100 mark.* The
+iPhone was a multifunction smartphone that provided the customer with a unique touch-based inter-
+face and a revolutionary operating system delivering a computer-based experience. According to Jobs,
+
+Apple Inc.
+
+the iPhone was “the Internet in your pocket.”¥” Apple partnered with AT&T to bring this device to the
+market and make it affordable for consumers. AT&T was happy to subsidize the phones, as long as it
+could ride the Apple wave of “coolness” and innovation.
+
+One year later, Apple launched the iPhone 3G, which was advertised as twice as fast at half the
+price. The iPhone 3G supported all Microsoft document formats and had full support for a Microsoft
+Exchange server. Apple sold a record six million 3G iPhones in the first year, giving birth to a whole
+new generation of smartphones. In the summer of 2010, Apple released the iPhone 4 with two built-in
+cameras and higher resolutions. In that same year, Apple had captured 17.4 percent of the smartphone
+market, with 82 percent sales growth since 2008. It had taken only two years for Apple to jump to sec-
+ond place behind Nokia, with 32.7 percent market share. The iPhone 4S, an update to the iPhone 4 with
+a voice assistant known as “Siri,” was released in October of 2011. The iPhone 5, which had a larger
+screen and was the first 4G iPhone, was released in September of 2012. The iPhone 6 represented more
+of an update and included the iPhone 6 Plus to better compete with larger phones from Samsung. The
+larger size enabled better battery life, and it came with a better camera. However, combined with the
+thin size the larger area raised problems with the iPhone 6 bending.*® As of early 2015, only 15 percent
+of customers have updated to the iPhone 6 providing room for additional sales.”
+
+THE iPAD
+
+On January 25,2010, Jobs took his biggest gamble yet with the announcement of the iPad, a multime-
+dia, tablet-style computer designed to take the place of a pencil and pad of paper.*’ (See Exhibit 5a for
+a historical timeline of Apple's product introductions and net income.) The iPad ranks among the most
+successful product launches ever, taking it only 28 days (compared to 74 for the iPhone 3) to sell more
+than 1 million units! The idea of a keyboard-free, touchscreen portable computer tablet had been
+around for more than two decades. Apple had even launched its own Newton MessagePad in 1993,
+which became known less for its pioneering features and more for being ridiculed in “Doonesbury”
+for the software’s problem in recognizing handwriting. ** At half-an-inch thick, weighing 1.5 pounds,
+with a 9.7-inch “gorgeous, super-high quality display” and that was “multi-touch, super-responsive,
+and super-precise,” Apple had come a long way since the Newton.” The iPad offers Wi-Fi wireless
+connectivity—enabling access to e-mail, photos, video, music, games, and e-books, as well as browsing
+the web. Additionally, the iPad incorporates features like a calendar, photo manager, spreadsheets, and
+presentations to take on a more multimedia look.**
+
+There was concern the iPad would cannibalize sales of other Apple products, but Jobs believed there
+was room for a third category between the laptop and smartphone, but acknowledged that “it must do
+things far better than both existing devices.” Jobs argued that if the iPad could not do some tasks better
+than laptops or smartphones, it was unnecessary.*® Unlike the iPhone, the initial iPad lacked a built-in
+camera for taking photos. While Jobs hailed the iPad as “a dream to type on,” for many it was not as
+easy as a typical keyboard with tactile keys to feel. This caused many customers to express disappoint-
+ment with the iPad as doing less than the iPhone, but on a bigger screen.’®,*” In March 2011, Steve Jobs,
+in typical showman fashion, unveiled the iPad2, a thinner and sleeker but higher-performing version
+of the original iPad. The iPad? also contained two cameras to facilitate online video chat
+
+With the introduction of the iPad, Apple increasingly became a mobile-devices company, competing
+against Sony, Samsung, and Nokia.* At the same time, Apple faced direct competition from other com-
+puter manufacturers, who were quick to jump on the iPad bandwagon, hoping to undercut Apple's
+price to gain market share. For example, Hewlett-Packard announced its own keyboardless computer
+called the “Slate,” and Dell, Acer, and Sony were all refining their own versions of the tablet. In addi-
+
+Apple Inc.
+
+tion, the iPad has faced increased competition from the new mini-laptops or “netbooks.” By the time
+the iPad turned five in 2015, competing products in the form of tablets and larger phones led to the first
+annual decline in tablet sales and iPad sales fell almost 18 percent.*® (Exhibit 5b shows Apple’s product
+sales by category, 2006-2014).
+
+Tim Cook, Apple's New CEO
+
+After going on his second medical leave in two years following a liver transplant in 2009, Steve Jobs
+put Tim Cook in charge.” Tim Cook was appointed CEO on August 24, 2011. A few weeks later, on
+October 5, 2011, Steve Jobs lost his battle with cancer.
+
+Tim Cook, who had an MBA from Duke University and a BS in Industrial Engineering from Auburn
+University, had been Apple's Chief Operating Officer (COQ) since 2007. He directed the outsourcing
+for most of Apple's production in a business where obsolescence can decrease the value of unsold
+goods by 2 percent a week.” While Tim Cook's leadership style clearly differs from that of Steve Jobs,
+Cook’s attempt to balance things out reflects a keen awareness of Jobs’ impact on Apple. To keep a bal-
+ance of the two styles of leadership, Cook kept Jobs’ office exactly how he left it, but also enacted initia-
+tives to signal that someone different was in charge. Tim Cook’s first initiative was something Steve
+opposed: matching Apple employee charitable donations up to $10,000 a year.” Cook also announced
+that the company would begin paying a dividend in 2012.
+
+Maintaining Apple's success without Steve Jobs was alone a singular challenge, but so was main-
+taining innovation. In 2011 Apple's most noticeable product changes involved color—popular prod-
+ucts were now being offered in white. In 2012, Apple released the iPhone 5, which was thinner than
+previous iPhones and had a larger screen. The new iPhone smashed pre-order records, but the release
+was marred by the replacement of Google maps with Apple software, leading to the firing of Scott
+Forstall, the head of mobile software. Forstall had clashed with other executives, and Steve Jobs was
+not there to mediate.> Tim Cook continues to face the challenges of maintaining a management team
+and continuing to release innovative products. These challenges are reflected in the fact that Tesla,
+which promises to maintain a culture like what Steve Jobs had created, has attracted more than 150
+former Apple employees.”
+
+INEXT?
+
+An area where the loss of Steve Jobs is still keenly felt is product innovation. Since 2010, with the
+debut of the iPad, Apple has not introduced a new flagship product. Introducing new products to
+maintain continued revenue growth and profitability is an evident concern for Tim Cook. He appears
+to be trying to leverage Apple's flagship product the iPhone, as well as developing new products.
+Following are brief descriptions of Apple's current efforts.
+
+BEATS HEADPHONES
+
+In 2014, Apple acquired Beats Electronics for $3 billion and will maintain it as a separate brand
+Beats was co-founded by rapper Dr. Dre and its headphones and speakers emphasize bass or hearing
+music as artists do. Prior to its acquisition, Beats Electronics had over $1 billion in sales. Beats head-
+phones and portable speakers serve as complements to iPhones and iPods by delivering a superior
+sound for music.
+
+Apple Inc.
+
+APPLE WATCH
+
+In early 2015, Apple announced that it would begin selling the Apple Watch in April. Originally
+envisioned as a health-monitoring device, many of those functions did not make it in the initial product
+and it is unclear what consumer need the Apple Watch will fill.” The Apple Watch costs $350 dollars
+for the entry model, and it only works with an iPhone. The watch’s most obvious function is enabling
+amore discrete method of checking who is calling or texting a person.® The Apple smartwatch is posi-
+tioned to be a luxury fashion accessory, with the 18-carat gold version version priced around $17,000.”
+
+APPLE PAY
+
+Apple's approach to mobile payment is called Apple Pay. While currently a small part of Apple's
+revenues, Apple Pay accounts for two-thirds of rapidly growing mobile payments.®* The number of
+companies accepting payments is limited to the United States. However, even though Apply Pay was
+accepted by only 15 companies in 2014, it was projected to grow to 53 by 2015. Still, Apple Pay contin-
+ues to depend on consumers conjointly using their iPhone 6 or iPhone 5 with Apple Watch.
+
+APPLE TV In March 2007, Steve Jobs introduced the first-generation Apple TV to the world, having
+referred to it more as a “hobby” than a mainstream product. The first-generation model was a box that
+connected to a user’s television set. It allowed the user to sync and then play his or her downloaded
+content from the iTunes Store. The content could be rewound or fast-forwarded, making the Apple TV
+the equivalent of the modern-day satellite or cable DVR.The 2012 generation of the Apple TV provided
+users with more flexibility to view content from their iPhone, iPad, or iPod. Additionally, users can
+watch movies, play music, show off their videos and photos, and even mirror what's on their device's
+screen to enjoy games, web pages, and more. Ultimately, Apple TV allows users to access all of the
+benefits of their complementary Apple products from their living rooms. The latest generation model
+retails for $99. However, the complexity of dealing and integrating with established broadcast cable
+providers and hardware design and supply issues have held back Apple TV. Even with these holdups,
+Apple continues to have an “intense interest” in television, and the company continues to test high-
+definition TVs and possible partnerships with cable companies. There are consistent rumors about an
+Apple-branded television (iTV), but the anticipated timelines continue to shift without an official prod-
+uct. The biggest hint about an Apple TV came from the 2011 biography on Steve Jobs that indicated
+Apple solved the television interface concept for a dedicated Apple television set. In 2013, Apple's
+acquisition of PrimeSense, the company behind the technology of Microsoft's Kinect motion-control
+sensor for its Xbox, implied it wanted to change how people interacted with televisions.”
+
+APPLE CAR
+
+Apple's latest rumored project is an electric car under the code name “Titan” that resembles a mini-
+van.® Electric vehicles are costly to build and Apple's efforts lag behind those of another Silicon Valley
+firm, Tesla. The cost and performance of batteries for electric vehicles and the lack of an established
+standard limit the acceptance of electric cars; in 2014, Nissan's Leaf led the market with just 40,000
+cars sold.” Further, the automobile industry has higher rivalry that relates to lower industry profit-
+ability. Ford and Nissan understand the automobile industry well and have opened research labs in
+Silicon Valley.%® It is also worth noting that several companies are developing driverless cars, including
+Google, which revealed a prototype in 2014.% However, government regulations, questions of liability
+for crashes, and questions of customer acceptance slow progress on automated cars.
+
+Apple Inc.
+
+Current Competitors
+
+Apple's exceptional performance, brand loyalty, and innovation capabilities would make any CEO
+envious. Also, as the industry continues to evolve, the lines between hardware, software, and search
+engines have blurred as each company vies for market share and dominance. The following companies
+pose the biggest threat to Apple and consistently seek opportunities to take market share away from
+the industry giant. (See Exhibit 6 comparing Apple's monthly stock performance versus selected com-
+petitors between January 2010 and January 2015.)
+
+AMAZON.COM
+
+Founded in 1994 by Jeffrey Bezos as an online book retailer, Amazon's sales grew from $20,000 in
+1995 to over $74 billion in 2013. After the company went public in 1997, it rapidly diversified into
+multiple product areas, undercutting existing specialty and bricks-and-mortar retailers in price.%® In
+1998, Amazon launched its online music and video store and began to sell toys as well as consumer
+electronics; it added clothing in 2002. More recently, Amazon has engaged in a series of acquisitions to
+further expand the breadth of products offered. The firm acquired the number one online shoe retailer,
+Zappos, for $890 million in 2009. In 2010, Amazon added both Woot, a social shopping e-commerce
+site, and Quidsi, the owner of Diapers.com and Soap.com, to its portfolio. By 2012, Amazon employed
+51,300 people all over the world and had climbed to number 56 in the Fortune 500.%
+
+The Kindle Fire tablet product line is seen as a direct competitor to the iPad. In January 2013, the
+Kindle Fire accounted for 7.78 percent of web traffic from tablet computers in North America compared
+to the iPad’s 81 percent.”” The Kindle Fire runs Google's Android operating system and the Kindle
+Fire HD was announced in September 2012 and comes in two different sizes: 7 inches and 8.9 inches.
+However, Amazon's share of the tablet market remains low with a 2.3 percent market share and an
+annual decline of almost 70 percent between 2013 and 2014.” Separately, Amazon's Fire Phone that
+launched in 2014 was not a success.
+
+Apple's iBookstore competes with Amazon's Kindle, and Apple set the maximum e-book price at
+the cost of printing the book, so publishers were able to charge anywhere from $12.99 to $14.99 for most
+titles. Apple retained 30 percent of the sale price and returned the remaining 70 percent to the publish-
+ers. The aspect that appealed to publishers was that they were able to determine the prices of e-content,
+and this gave them leverage to negotiate higher prices for their content with Amazon. It was even pos-
+sible that publishers would withhold titles from Amazon if they did not agree to raise their prices. As
+a result, the competition between Apple and Amazon “Is as intense a situation as the industry has ever
+had. ... It's a huge chess match.””
+
+GOOGLE
+
+In 1998, 24-year-old Sergey Brin and 25-year-old Larry Page founded Google. They met as gradu-
+ate students in the computer science department at Stanford University where they began working
+together on a web crawler, with the goal of improving online searches. What they developed was the
+PageRank algorithm, which returns the most relevant web pages more or less instantaneously and
+ranks them by how often they are referenced on other important web pages. A clear improvement over
+early search engines such as AltaVista, Overture, and Yahoo, all of which were indexed by keywords,
+
+Apple Inc,
+
+the PageRank algorithm is able to consider 500 million variables and three billion terms. What started
+as a homework assignment launched the two into an entrepreneurial venture when they set up shop in
+a garage in Menlo Park, California.
+
+Today, Google is the world’s leading online search and advertising company, with some 70 percent
+market share of an industry estimated to be worth more than $25 billion a year, and growing quickly.
+Google's current operating system, Android, is used exclusively by Samsung Electronics, a Korean
+electronics maker, in all of its smartphone devices. As an alternative to the iPhone, Android phones
+created by Samsung, HTC, and others have rapidly stolen market share from Apple and BlackBerry.
+Samsung especially has been able to create phones running Android that are viable alternatives to the
+iPhone. In a move into the hardware space, Google acquired Motorola Mobility in 2011 and plans to
+release its own phones and tablets running Android. Google would have more control over the hard-
+ware and ideally be able to optimize the hardware for future Android features. By controlling the soft-
+ware on mobile devices, Google plans to also control the ads shown to users, thus extending its hold on
+the digital ads market, its main source of revenue. Android's market share in smartphones worldwide
+has grown from over 50 percent in 2011 to over 84 percent in 2014.” Google is also moving into mobile
+payments with Wallet; however, Google has less control over how its operating system is used and
+retailers have been slow to adopt the system.”
+
+Google's Chromebook is a line of laptop computers running Google's Chrome operating system.
+The Chrome OS is designed to provide the user with the minimal amount of hardware and installed
+applications needed. The user runs applications from the cloud and uses Google's Chrome browser to
+access these applications. Several manufacturers such as Samsung, Acer, and HP are partnering with
+Google to create Chromebooks.
+
+Google is also looking to develop more web-connected services for people's homes, powered by
+the Android operating system. In addition, Google is trying to enter the high-speed Internet market
+so it can deliver its products to customers without having to worry about poor connection speeds or
+being blocked by competitors. In 2012, it began wiring homes in Kansas City, both the Missouri and
+Kansas sides, with plans to expand to other locations around the United States in 2013.” Google is also
+attempting to hold off both Facebook and Amazon by enabling retailers to reach consumers through
+its search engine exclusively.
+
+MICROSOFT
+
+The partnership that Paul Allen and Bill Gates formed in 1975 started out small, but Gates had a
+vision to one day put a computer in everyone's home. During the next several decades, their company,
+Microsoft, revolutionized the way people worked and played on their computers, as Microsoft domi-
+nated the technology market with its Windows operating system in the 1990s and early 2000s.” The
+explosion of mobile devices led by Apple has Microsoft playing catch-up.
+
+To compete with the iPad, Microsoft released its Surface tablet in October of 2012 with a large cam-
+paign focused on comparing it to the iPad. The Surface has an attachable keyboard /cover, a USB port,
+and runs the Windows 8 operating system. Furthering Microsoft's presence in the smartphone market
+was Apple's acquisition of Nokia devices and services in 2014 for more than $7 billion. This acquisition
+returned Nokia's CEO Stephen Elop to Microsoft as an executive vice president of the Microsoft Devices
+Group—the same group responsible for Lumia smartphones and tablets, Nokia mobile phones, Xbox
+hardware, Surface, and other products.”
+
+10
+Apple Ine.
+
+Like Apple, Microsoft has opened its own stores to sell Microsoft and third-party products that
+run Microsoft's software. The company is also working on an update to its Windows operating sys-
+tem—causing it to skip from the number 9 to the number 10 version in an attempt to emphasize the
+significance of the upgrade. Microsoft plans to use Windows 10 across all its products (computers,
+tablets, phones, and Xbox).”® It has also announced plans to offer free customer upgrades to Windows
+10, which can boost their operating systems market share; this move suggests a shift in its business
+model—one that may rely more on annual subscriptions for upgrades.”
+
+SAMSUNG
+
+On March 1, 1938, Byung-Chull Lee started Samsung, which means three stars in Korean, as a small
+export business focusing primarily on fish, vegetables, and fruit. Within a little over 10 years, Samsung
+would have its own manufacturing and sales operations. Today, the technology giant sells products
+around the globe and is instantly recognized for its innovative, consumer-driven products.®’ By 2012,
+Samsung Electronics had become the global smartphone market leader, due mostly to its extremely
+successful Galaxy S device and subsequent versions, which run on Google's Android operating system.
+The phone is comparable in both design and technical features to the iPhone and poses the biggest
+competitive threat to Apple. It is estimated that Samsung holds roughly 24 percent of the smartphone
+market, down from 32 percent in 2013, while Apple’s global market share has fallen to approximately
+12 percent in 2014.5
+
+Together, Samsung hardware and Google software have combined to provide a product comparable
+in quality and experience to the iPhone. Competition between Apple and Samsung is extending into
+mobile payments by offering LoopPay that works with over 10,000 banks.*> One of the main drivers of
+Samsung's rise has been its two-pronged pricing structure. Its premium products are priced similarly
+to Apple's in the United States, but the company also heavily discounts the prices of some phones,
+sometimes to less than a quarter of the suggested retail price. Additionally, Samsung manufactures
+all of its own smartphones, including the components, which gives it a distinct cost advantage over
+its closest competitors. Even Apple uses Samsung to manufacture a portion of its iPhone product line.
+For the low-end and emerging smartphone markets, Samsung also provides a competitive lower cost.
+
+The intense competition between Apple and Samsung has led to many legal battles, mostly over pat-
+ent infringement. In August 2012, a U.S. federal court ruled in favor of Apple in one such case, award-
+ing it more than $1 billion in damages (later reduced to some $500 million). Separate infringement cases
+are pending in various other countries around the world pertaining to the design and technology of
+both companies’ devices.
+
+Challenges Ahead
+
+Despite Apple's incredible performance over the last few years, Tim Cook knows all too well that
+Apple faces significant challenges. Perhaps Apple's greatest challenge involves investors and consum-
+ers having big expectations. Despite Tim Cook dismissing the “law of big numbers,” it remains to be
+seen from where the continued growth will come. In Apple's record-breaking quarter at the end of
+2014, the popular iPhone accounted for two-thirds of its $74.6 billion in revenue ® This largely came
+from success in selling iPhones in China; however, new sales to customers there and in established
+
+11
+Apple Inc.
+
+markets will require convincing people with smartphones to replace them or buy products to comple-
+ment them. For example, the Apple Watch represents an accessory to a device that performs existing
+functions well, and it is unclear why consumers will need or want the device.
+
+Again we ask, from where will expected growth come? Will it involve a combination of products
+or something entirely new, or new markets? In addition to success in China, Apple could pursue sales
+in other emerging economies, such as India or Brazil. How should Apple compete in these markets?
+Apple also needs to potentially be concerned about Chinese government policies that may impact it.
+Any setback in China would hurt Apple. Moreover, Apple’s success has invited competition that is con-
+stantly looking at new ways to take market share away from the company. How should Cook respond
+to competitive pressure? Further, Apple's success has brought the attention of activist investors that
+want its $178 billion in cash returned as dividends or used to buy back shares.®
+
+Tim Cook has some enormous strategic decisions to make in the short term, and he needs to decide
+where and how Apple should compete in the long term. Given the blurring industry boundaries that
+allow capable competitors to put pressure on Apple, Cook needs to carefully plan the company’s next
+moves if he wants to sustain Apple's competitive advantage and growth. As his MacBook Pro boots up,
+Cook pops open a can of Diet Mountain Dew and begins to jot down some of his thoughts.
+
+12
+Apple Inc.
+
+EXHIBIT 1A Apple's Market Cap in Billion $
+
+August 24, 2011 (Tim Cook's first day as CEO) to February 10, 2015 (Apple as the first company
+to reach market cap of greater than $700 billion}
+
+AAPL Market Cap
+T2H.QOB woven eee ; 0.748
+BTH.00B frre hl
+A NJ
+B25 00B creer A a BN RA AES am Ao BER 5 her Ep A" ra
+RA4AY;
+575.008 rcoreeieereeeees 7 Wovens : WARS a (RTT
+
+A95.00B -oeeereeereforienne in AN A fg fo ¥ ES RS
+375.00B /
+325.008 LTE EERE EE RR TE PPE PP PRE ERT PEE PER
+
+Jan 2012 July 2012 Jan2013 July 2013 Jan 2014 July 2014 Jan 2015
+
+Source: Author's depiction of publicly available data using YCHARTS, http:/ /ycharts.com/.
+
+EXHIBIT 1B Apple's Stock Price vs. NASDAQ 100 Index (August 24, 2011 to February 10, 2015)
+
+AAPL Price
+i NASDAZ 100 Level
+
+13007 4 478116
+115.00 4031.25
+
+105.00 3718.75
+85.00 3406.25
+85.00 3083.75
+75.00 2781.25
+85.00 2468.75
+55.00 2156.25
+
+Jan'12  July'i2 Jan13  Julyt8  Jan't4  July'td  Jan'iS
+
+Source: Author's depiction of publicly available data using YCHARTS, http://ycharts.com/.
+
+Apple Inc.
+
+EXHIBIT 2A Apple's Regional Sales, 2010-2014 (in $ millions)
+
+Net Sales by Operating Segment © 2010 . 201 . 2012 © 2013 2014
+
+American net sales : 24498 {38315 : 57512 © 62,739 65232
+European net sales : 18,692 : 27778 : 36,323 : 37,883 : 40929
+Japanese net sales © 3981 © 5437 C0571 13462 14982
+Asia-Pacific net sales © 8256 © 22502 33274 © 36598 39490
+Retal net sales "9798 © 4g27 "18828 © 20228 © 21462
+Taal sige alls © 65.225 © 108.249 156,508 © 170910 © 181795
+
+Source: Apple Annual Reports 2010-2014.
+
+EXHIBIT 2B Net Sales by Product, 2010-2014 (in $ millions)
+
+Net Sales by Product : 2010 2011 : 2012 2013 2014
+Desktops? 6,201 . 6439 6,040
+Portables’ "11.278 15,344 7st
+Total Mac net sales 17479 © 21783 23221 © 21483 24079
+iPod 8274 7453 5615 Cam © 2,286
+Other music-related products and : 4,948 : 6,314 : 8,534 16,051 : 18,063
+services® : : :
+iPhone and services? © 25179 47057 © 80477 © 91279 © 101991
+iPad and related products® © 4958 © 20358 © 32424 © 31980 © 30263
+Peripherals and hardwaref : 1814 2,330 : 2,778 : :
+Software and service sales? 2,573 2,954 ; 3459 ; 5706 6,093
+Total net sales 65225 108.249 156,508 170810 182785
+a Includes iMac, Mac min, 2nd Mac Pro product lines (2008-2010 numbers slso include Power Meo and Xserve prod 3]
+b lnstudes MacBock, iBook, Maziock Air, Mactouk Pro, and PowerBook produnt lines
+¢ includes sates from iTunes Stora, App Store, and [Bockstors, as welt a: sales of iPad services and Appie-brandad and third party iPod accessorian,
+4 lreiudes revenue recognized from iPhone sales, carrier agreements, services, and Apple-branded and third-party Phone acces
+2 inoludss revenue recognized from iad rales, services and Apple-branded and third-party Pad sceoscor ies
+Fincludes sales of displays, wireless eannasetivity and networking solutions, and other hardware scoesseiios
+¢ Includes sales of Appie-branded cporating system 2nd application software, third-paity software, snd Mac anid linternet carvices,
+
+Source: Apple Annual Reports 2010-2014.
+
+14
+Apple Inc.
+
+EXHIBIT 2C Unit Sales by Product, 2010-2014 (in millions, except sales-per-unit-sold data)
+
+Unit Sales by Product © 2010 © 2011 "2012 - 2013 2014
+Desktops® $4627 {4669 - 4856
+
+Portables’ 19085 “12,066 13502 :
+
+Total Mac unit sales 1362 “16735 18158 "16,341 18.906
+Net sales per Mac unit sold® $1,279 : $1,301 $1,278 : $1,315 : $1,274
+iPod units sold £50,312 : 46,620 35165 : 26,379 14377
+Net sales per iPod unit sold® : $164 : $174 $159 : $167 : $159
+iPad units sold “7458 "22,304 58310 71033 J 67977
+Net sales per iPad unit sold 5665 5628 $590 $450 $445
+iPhone units sold © 39.989 $72,293 * 125,046 150,257 169.219
+
+» Includes iMac, Mac mini, and Mac Pro product lines (2008-2010 numbers also include Power Mac and Xserve product Lies).
+
+b fhe ludes MacBook, iBook. MacBook Ain MacBook Pra, and PowerBook product lines.
+
+¢ Derived by dividing total product-related net sales by total producirelated unit sales.
+
+Source: Apple Annual Reports 2010-2014.
+
+Apple Inc.
+
+EXHIBIT 3 Apple Financial Data, 2010-2014 (in $ millions, except EPS data)
+
+Fiscal Year “2010 C2010 2012 2013 © 2014
+Cash and short-term investments © 25,620 25,952 : 29129 : 40,546 25,077
+Receivables (total) : 9,924 1717 18,692 : 20,641 ; 27219
+Inventories (total) : 1051 : 778 791 : 1,764 : 2,1
+Property, plant, and equipment-total (net) 4,768 : 777 15452 {16597 : 20,624
+Depreciation, depletion, and amortization (accumulated) : 2466 3,991 : 6435 11,922 : 18,391
+Assets [total) 75183 #637 | 776084. 207000 231839
+Accounts payable (trade) : 12,015 : 14,632 : 21175 : 22,367 : 30,196
+Long-term debt 0 0 0 16960 28,987
+Liabilities (total) "27392 39756 57854 | 83451 102.292
+Stockholders’ equity (total Cg7et 76615 M8210 123549 111547
+Sales (net) © §5225 108249 156508 170810 182.795
+Cost of goods sold : 38,609 : 62,609 : 84,641 : 99,849 : 104,312
+Selling, general, and administrative exp. : 7,299 : 10,028 : 13421 : 15,305 : 18,304
+Income taxes 4527 8283 14030 1318 13973
+Income before extraordinary items : 14,013 : 25922 : 41,733 : 37037 : 39,510
+Net income {loss} : 14,013 : 25,922 : 41,733 : 37.037 39,510
+Earnings per share (basic) excluding extraordinary items 15.41 28.05 ; 44.64 ; 40.03 6.49
+Earnings per share (diluted) excluding extraordinary items isis 2768 : 44.15 3975 : 6.45
+
+Source: Compustat and/or Apple Annual Reports 2010-2014.
+
+16
+Apple Inc.
+
+EXHIBIT 4 R&D Spending at Selected Tech Companies (in millions)
+
+: R&D most recent four
+
+Company Quarters ~ Selected % of Revenue
+Microsoft © $11,381 S134
+
+Intel : $11,537 : 206
+
+IBM © $5437 © 585
+
+Google © $0832 C149
+
+Amazon : $9,275 : 10.4
+
+Apple : $6,000 : 3.28
+
+Earnings per share (diluted) excluding extraordinary items : 15.15 : 27.68
+
+Source: Google Finance, Company Annual reports
+
+Apple Inc.
+
+EXHIBIT 5A Apple's Net Income ($ millions) and Key Events over Time, 1978-2014
+
+iPad Mini,
+iPhone 5 ® iPhone 6, B+
+40,000 RN EE A EE MP TH Hm A SE AT SS DRE ERB Ra US BB AE SER EPR PE SRR ee a Aw A Ga / om
+| MW
+BB,000  «vvveveeeere oreo [rege 58
+30,000 RE A HB 0 0 SR TE AE A 0 wR A CE ON A RAR 0 FD ROE WF OA A WB mT Rr 4 | ECR
+iPhone 45 |
+25,000 Ee ERR a AR AE ALE NR a RA 4 Peery
+RC iPhone 36S, iPad | 7 TO
+iPhone 36 J
+19,000 ne ft SR frre
+ET, iMac gerereion) A Tim Cook
+iPod Intel-based Macs [| 2 tai
+Steve dobs  “_ \ iTunes p
+5,000 ceoreeeee 7s ale TE od TA Ae pg Eh Ne i \ Ro I ree
+Apple Il Macintosh Laser\Writer Powerbook G3 A \
+0 ER  IaRRas miu Try pane PERETTI SE We
+-5,000
+1978 1982 1986 1990 1994 1998 2002 2006 2010 2014
+
+Source: Depiction of publicly available data.
+
+18
+
+Apple Inc,
+
+EXHIBIT 5B Apple's Product Sales by Category, 2006-2014
+
+W iPod ™ iPhone MW iPad
+
+01020304 01020304 01020304 01020304 01020304 01020304 01020304 01020304 01020304
+
+2006 2007 2008 2009 2010 201 2012 2013 2014
+
+Source: Authors depiction of publicly available data from Statista.com.
+
+19
+
+Apple Inc.
+
+EXHIBIT 6 Comparison of Selected Apple Competitors Stock Prices, January 2010-January 2015
+
+TOO: soovmsiesss vss oss ooh Ee a
+(+71 1¢ | RESP OTP I URITIT EIRP
+/ \ \ 2 4 Goog
+BOD CE TR Joris
+AOD ovement wv 7 — -— —
+A / N a
+300 censors RFT Awad, ssn Bheeatiss fae Ne Wo
+nN ~N \/ =
+200  eeeeeeees pide - Vk A
+TE. a 4 Apple
+jp SEE
+— Pe ee 4 Micro
+0
+
+Jan 2010 Jan 2011 Jan 2012 Jan 2013 Jan 2014 Jan 2015
+
+20
+Apple Inc.
+
+Endnotes
+
+1 Wakabayashi, D. (2015), “Apple: $710 Billion and Counting,” The Wall Street Journal, February 11.
+
+2 Wakabayashi, D. (2015), “Staggering’ iPhone Demand Helps Lift Apples’ Quarterly Profit by 38%,” The Wall
+Street Journal, January 27.
+
+3 Wakabayashi, D. (2015), “Apple: $710 billion and Counting,” The Wall Street Journal, February 11.
+
+4 The NASDAQ-100 is a stock market index of the 100 largest non-financial companies listed on the NASDAQ.
+It includes many of the best-known tech companies such as Amazon, Baidu, Google, Intel, Microsoft, Netflix,
+among others. Apple is also included in the NASDAQ.
+
+5 “New Mobile Phone Signals Apple's Ambition,” The New York Times, January 9, 2007.
+6 Jobs, S., Crunchbase, http:/ /www.crunchbase.com/person/steve-jobs.
+7 Wakabayashi, D. (2015), “Apple: $710 Billion and Counting,” The Wall Street Journal, February 11.
+
+8 “DoubleTwist Remakes Apple's Classic 1984 Ad with a New Dictator: Steve Jobs,” TechCrunch, September 29,
+2009.
+
+9 Sculley, J., and J. A. Byrne (1987), Odyssey: Pepsi to Apple (New York: Harper & Row).
+
+10 “Apple to Trim Jobs and Its Product Line,” The New York Tires, March 15, 1997.
+
+11 “Apple Computer Inc. Agrees to Acquire NeXT Software Inc.,” Apple Inc., December 20, 1996.
+12 Thid.
+
+13 Farzad, R. (2013), “Microsoft's Apple Investment: The Worst Deal of Them All?” BloombergBusinessweek,
+December 9.
+
+14 Rumelt, R. P. (2011), Good Strategy. Bad Strategy. The Difference and Why It Matters (New York, NY: Crown
+Business), p. 14.
+
+15 “Steve Jobs" Magic Kingdom,” BusinessWeek, February 2006.
+
+16 “Dell: Apple Should Close Shop,” CNET News, October 6, 1997.
+17 Ibid.
+
+18 “Jonathan Ive and Apple Win Again,” BusinessWeck, June 7, 2007.
+19 “Look Forward in Anger,” The Economist, March 18, 2010.
+
+20 Hertzfeld, A. (1983), “Pirate Flag,” Folklore, August, http: / /vww.folklore.org/Story View.py?story _ Pirate_
+Flag txt.
+
+21 “Jobs at Apple,” http: / /www.apple.com/jobs/us/.
+
+22 Ibid.
+
+23 Ibid.
+
+24 Ibid.
+
+25 “Growth by Effort: The best Company,” The Wise Nutrition, December 2008.
+
+26 “Apple and Microsoft: Jobs Barefoot Under a Tree,” Computergrain International, January 26, 1999.
+
+21
+Apple Inc.
+
+27 “Cult of Apple,” Uncyclopedia, http:/ /uncyclopedia.wikia.com/wiki/Cult_of_Apple.
+28 Jobs, S., Crunchbase, http: / /www.crunchbase.com/person/steve-jobs.
+
+29 Hill, C.W.L., and E. T. Rothaermel (2003), “The Performance of Incumbent Firms in the Face of Radical
+Technological Innovation,” Academy of Management Review 28 (2): 257-274.
+
+30 “The Seed of Apple's Innovation,” BusinessWeek, October 12, 2004.
+31 Apple 2014 10-K.
+
+32 “The Second Coming of Apple Through a Magical Fusion of Man—Steve Jobs—and company, Apple is
+becoming itself again: The little anticompany that could,” Fortune, November 9, 1998.
+
+33 “Apple Enjoys Ongoing iPod Demand,” BBC News, January 18, 2006.
+
+34 “iPod Tear-Down Suggests High Apple Margins,” Apple Insider, September 15, 2006.
+
+35 “iTunes Store Tops Five Billion Songs,” Apple Inc., June 19, 2008.
+
+36 “AAPL Surges Past $100, Target at $140,” MacNN, April 26, 2007.
+
+37 “Apple’s Jobs: Mobile Internet Is Terrible; iPhone Delivers the Real Internet,” Information Week, May 31, 2007.
+
+38 A failed $700 million investment with GT Advanced Technology to make sapphire crystals to be used in
+iPhone screens likely contributed to this problem.
+
+39 Hough, J. (2015), Apple shares could return 25% in a year, Barron's, Febraury 23, p. 20.
+40 “Apple Takes Big Gamble on New iPad,” The Wall Street Journal, January 25, 2010.
+
+41 Gelles, D. (2010), Apple shifts Im iPads within first month, Financial Times: 4 May, p. 16.
+42 "Just a Touch Away, the Elusive Tablet PC,” The New York Times, October 4, 2009.
+
+43 Tbid.
+
+44 "The Microsofting of Apple,” The New York Times, February 10, 2010.
+
+45 Jobs, S., Keynote address to introduce iPad.
+
+46 Ibid.
+
+47 "Apple's Showman Takes the Stage,” The Wall Street Journal, March 3, 2011.
+
+48 “Apple Takes Big Gamble on New iPad,” The Wall Street Journal, January 25, 2010.
+
+49 Jobs, S., Keynote address to introduce iPad.
+
+50 “Apple's Tablets Aren't a Headache,” The Wall Street Journal, February 3, 2015.
+
+51 Goldman, D. (2011), “As Tim Cook Takes Over, Apple Is Poised to Shatter Sales Record,” CNNMoney: http://
+money.cnn.com/2011/01/17/ technology / tim_cook_apple/index.htm.
+
+52 Simons, R. (2010), Seven Strategy Questions: A Simple Approach for Better Execution. Harvard Business
+Review Press: Boston, MA.
+
+53 Vascellaro, J. (2011), “Apple in His Own Image,” The Wall Strect Journal: 2 November.
+
+54 Lessin, J. (2012), “An Apple Exit Over Maps,” The Wall Street Journal, 30 October.
+
+22
+Apple Inc.
+
+55 Higgins, T., Hull, D. (2015), “Want Elon Musk To Hire You at Tesla? Work at Apple.” Bloomberg
+Businessweek, February 5.
+
+56 Wakabayashi, D., (2014), “Tim Cook’s Vision for ‘His” Apple Begins to Emerge,” The Wall Street Journal, July,
+8, p. BL. ‘
+
+57 Wakabayashi, D. (2015), “Challenge of the Apple Watch: Defining Its Purpose,” The Wall Street Journal,
+February 17, p. Bl
+
+58 Ray, T. (2015), “The Apple Watch Could Bring in $23 Billion Next Year,” Barron's, February, 16, p. 32.
+
+59 Wakabayashi, D. (2015), “Smartwatch Pushes Apple Into High-End Fashion,” The Wall Street Journal, March 8.
+60 CNBC: http:/ /www.cnbc.com/id /102441925.
+
+61 http:/ /www.businessinsider.com/apple-pay-growth-in-5-months-2015-2.
+
+62 http://www .forbes.com/sites /shelisrael /2013/11 /25 / why-would-apple-buy-primesense/.
+
+63 Wakabayahshi, D, and Ramsey, M. (2015), “Apple Secretly Gears Up to Create Car,” The Wall Street Journal,
+February 14, p. Al.
+
+64 The Economist. (2015), “Upsetting the Apple Car,” February 21, pp. 61-62.
+65 Ibid.
+
+66 http:/ /thinkprogress.org / climate /2014/12/27 /3607036 /
+google-unveils-new-driverless-car-whats-holding-it-back /.
+
+67 Amazon 2014 Annual Report.
+68 Jannarone, |. (2011), “Forecast for Best Buy: Worst Is Yet to Come.”
+69 http:/ /www.amazon.com, http:/ /money.cnn.com/magazines/ fortune / fortune500,/2012/ full_list/.
+
+70 “Kindle Fire & Android Gain, but Apple’s iPad Holds Commanding 81% Tablet Share,” Applelnsider, February
+5,2013.
+
+71 http:/ /www.zdnet.com/ article /tablet-shipments-post-first-yearly-decline-apple-and-samsung-slip-ide/.
+72 “Apple Tablet Portends Rewrite for Publishers,” The Wall Street Journal, January 27, 2010.
+73 http: / /www.idc.com /prodsery /smartphone-os-market-share jsp.
+
+74 Bark, A. (2015), “To Revive Wallet, Google Ties to Wrangle Unruly Partners,” The Wall Street Journal, February
+20, p. B5
+
+75 “2013 Preview; Apple vs. Google vs. Facebook vs. Amazon; The Lines Between Software and Hardware
+Continue to Blur,” The Wail Street Journal (online), December 25, 2012.
+
+76 http:/ /windows.microsoft.com/en-US/ windows / history.
+
+77 Microsoft press release: http:/ /news.microsoft.com/2014/04/25/
+microsoft-officially-welcomes-the-nokia-devices-and-services-business /.
+
+78 http: / /www.zdnet.com/ article /microsofts-windows-10-whats-new-and-how-to-get-the-preview-bits/.
+
+79 http: / /www.computerworld.com/ article / 2863400 / microsofts-big-decision-who-gets-a-free-upgrade-to-
+windows-10.html.
+
+23
+Apple Inc.
+
+80 http: / /www.samsung.com/us/aboutsamsung/corporateprofile /history06.html.
+
+81 http:/ /www.idc.com/prodserv/smartphone-market-share jsp.
+
+82 http:/ /www.gottabemobile.com/2015/02/19/galaxy-s6-vs-iphone-6-apple-pay-vs-looppay /
+83 “iThrone” The Economist, January 31, 2015.
+
+84 Wakabayashi, D. 2015. “Challenge of Apple Watch: Defining Its Purpose” Wall Street Journal, February 17,
+2015, p. BI
+
+85 “iThrone” The Economist, January 31, 2015.
+
+2 REE 7 [RRA TS EAE 11-23 RS ER AT 2 BRB (EE AY sR EE BR HARRIE EAT
+BE FS EER
+
+(EEN ©
+
+24
